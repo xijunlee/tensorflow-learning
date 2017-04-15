@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# coding=utf-8
+
 import tensorflow as tf
 
 # 创建一个常量 op, 产生一个 1x2 矩阵. 这个 op 被作为一个节点
