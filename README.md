@@ -1,2 +1,2 @@
 # tensorflow-learning
-This repo records what I 've learning in tensorflow.
+This repo records what I 've learned in tensorflow.
